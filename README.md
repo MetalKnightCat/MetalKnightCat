@@ -1,7 +1,6 @@
 🎓 **Student Developer** | 🐍 **Python Enthusiast** | 🤖 **Machine Learning Enthusiast**
 
-Welcome to my GitHub profile! I'm passionate about coding, solving problems, and building cool projects, especially in Python and Machine Learning. I'm constantly learning and exploring new technologies to improve my skills.
-
+Welcome to my GitHub profile. I am a dedicated student developer with a strong focus on Python programming and machine learning. My work revolves around building data-driven applications, solving complex problems, and continuously expanding my technical expertise through hands-on projects and learning.
 ---
 
 ## 🛠️ **Technologies & Tools**
