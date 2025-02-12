@@ -57,7 +57,7 @@ Here are some of the projects I've worked on:
 
 ## 🌱 **Currently Learning**
 
-- Frontend development to enhance my full-stack skills.
+- Frontend and Backend to enhance my full-stack skills.
 - Advanced Python programming and SQL for data analysis.
 - Machine learning and AI to build smarter applications.
 
