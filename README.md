@@ -29,10 +29,10 @@ Welcome to my GitHub profile. I am a dedicated student developer with a strong f
 
 Here are some of the projects I've worked on:
 
-1. **Covid Dashboard**  
-   - Description: A data visualization dashboard that tracks COVID-19 cases, recoveries, and deaths using real-time data. Built with Python, Pandas, and Plotly.  
-   - Tech Stack: Python, Pandas, Plotly  
-   - [Link to Repository](https://github.com/MetalKnightCat/covid-dashboard)
+1. **Django User Registration and Login System**
+   - Description: A sleek and secure user registration and login system built with Django. This project features a modern, iOS-inspired design with a dark red and black theme. It allows users to create accounts, log in, and view a list of registered users.
+   - Tech Stack: Python, Django, SQLite, HTML, CSS
+   - [Link to Repository](https://github.com/MetalKnightCat/django-register-system)
 
 2. **Global CO2 Emissions Dashboard**  
    - Description: An interactive dashboard that visualizes global CO2 emissions data over time, helping users understand trends and patterns. Built with Python and Dash.  
