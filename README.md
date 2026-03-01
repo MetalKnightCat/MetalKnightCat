@@ -1,77 +1,113 @@
-🎓 **Student Developer** | 🐍 **Python Enthusiast** | 🤖 **Machine Learning Enthusiast**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9AFE&center=true&vCenter=true&random=false&width=600&lines=Computational+Chemistry+Developer;Drug+Discovery+%7C+ML+%7C+Algorithms;Bridging+Code+and+Molecules)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile. I am a dedicated student developer with a strong focus on Python programming and machine learning.
+## 🧬 Sobre Mim
+
+🎓 **Graduando em Ciência da Computação** e **Química Medicinal**
+
+Desenvolvedor com base sólida em algoritmos e estruturas de dados, aplicando programação de alto desempenho para resolver problemas complexos em descoberta de fármacos. Atuo na interseção entre **inteligência computacional** e **ciências moleculares**, transformando dados químicos em insights terapêuticos através de código.
+
+🔓 **Entusiasta Open-Source** | 🖥️ **SysAdmin & DevOps** | ⚡ **Hardware & IoT**
+
+&gt; *"Da silício às moléculas: acredito no poder do código aberto para democratizar a ciência e no hardware para tangibilizar a inovação."*
+
 ---
 
-## 🛠️ **Technologies & Tools**
+## 🛠️ Stack Tecnológico
 
-### Programming Languages
+### 💻 Core Development (Ciência da Computação)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Machine Learning & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🧪 Quimioinformática & Bioinformática
+![RDKit](https://img.shields.io/badge/RDKit-1C2B3A?style=for-the-badge&logo=rdkit&logoColor=white)
+![OpenBabel](https://img.shields.io/badge/Open_Babel-FF6600?style=for-the-badge&logo=openbabel&logoColor=white)
+![PyMOL](https://img.shields.io/badge/PyMOL-0E4B8F?style=for-the-badge&logo=pymol&logoColor=white)
+![AutoDock](https://img.shields.io/badge/AutoDock-2E8B57?style=for-the-badge&logo=autodesk&logoColor=white)
+![Biopython](https://img.shields.io/badge/Biopython-1E4D2B?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 Machine Learning para Descoberta de Fármacos
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![DeepChem](https://img.shields.io/badge/DeepChem-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB1C24?style=for-the-badge&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### ⚡ Infrastructure, Hardware & Open Source
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
-
-## 📂 **Featured Projects**
-
-Here are some of the projects I've worked on:
-
-1. **Django User Registration and Login System**
-   - Description: A sleek and secure user registration and login system built with Django. This project features a modern, iOS-inspired design with a dark red and black theme. It allows users to create accounts, log in, and view a list of registered users.
-   - Tech Stack: Python, Django, SQLite, HTML, CSS
-   - [Link to Repository](https://github.com/MetalKnightCat/django-register-system)
-
-2. **Global CO2 Emissions Dashboard**  
-   - Description: An interactive dashboard that visualizes global CO2 emissions data over time, helping users understand trends and patterns. Built with Python and Dash.  
-   - Tech Stack: Python, Dash, Pandas  
-   - [Link to Repository](https://github.com/MetalKnightCat/Global-CO2-Emissions-Dashboard)
-
-3. **AI Task-Manager**  
-   - Description: A smart task manager that uses AI to prioritize and organize tasks based on deadlines and importance. Built with Python and machine learning libraries.  
-   - Tech Stack: Python, Scikit-Learn, TensorFlow  
-   - [Link to Repository](https://github.com/MetalKnightCat/ai-task-manager)
+### 🗄️ Bancos de Dados & Scientific Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChEMBL](https://img.shields.io/badge/ChEMBL-008080?style=for-the-badge&logo=database&logoColor=white)
+![PubChem](https://img.shields.io/badge/PubChem-0066CC?style=for-the-badge&logo=molecule&logoColor=white)
 
 ---
 
-## 📈 **GitHub Stats**
+## 🚀 Projetos & Interesses
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MetalKnightCat&show_icons=true&theme=radical)
+| 🔬 **Computacional** | 🖥️ **Sistemas** | ⚡ **Hardware** |
+|:---:|:---:|:---:|
+| Virtual Screening | Homelab & Servidores | Automação de Laboratório |
+| Modelos QSAR/ML | Containerização Docker | Arduino para Coleta de Dados |
+| Análise MD | CI/CD Pipelines | Raspberry Pi como Edge Device |
+| Bioinformática | Administração Linux | Sensores Químicos IoT |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MetalKnightCat&layout=compact&theme=radical)
+### 💡 Áreas de Interesse Ativo
+
+- **🖥️ Homelab & Self-Hosting**: Manutenção de servidores caseiros para processamento distribuído de docking molecular e bancos de dados químicos locais
+- **🔧 Lab Automation**: Desenvolvimento de dispositivos Arduino/Raspberry Pi para automação de protocolos experimentais (pipetagem, titulação, monitoramento de reações)
+- **🐧 Open Source Scientific Stack**: Contribuições e utilização de ferramentas abertas (RDKit, OpenBabel, GROMACS, AutoDock) para democratizar a pesquisa científica
+- **⚙️ DevOps Científico**: Pipelines de CI/CD para validação automática de modelos preditivos e reprodutibilidade computacional
 
 ---
 
-## 🌱 **Currently Learning**
+## 🎯 Foco de Estudos Atuais
 
-- Frontend and Backend to enhance my full-stack skills.
-- Advanced Python programming and SQL for data analysis.
-- Machine learning and AI to build smarter applications.
+**🔬 Química Medicinal Computacional:**
+- Screening virtual (Virtual Screening) e Docking Molecular em clusters auto-gerenciados
+- Modelos QSAR/QSPR para predição de atividade biológica
+- Simulações de dinâmica molecular (MD) em infraestrutura própria
+
+**💻 Ciência da Computação & Sistemas:**
+- **Sistemas Operacionais**: Kernel Linux, otimização de performance para HPC
+- **Infraestrutura**: Docker, orquestração de containers para ambientes científicos reproducíveis
+- **Embarcados**: Programação de microcontroladores para instrumentação científica (Lab-on-a-Chip)
+
+**🤖 IA para Drug Discovery:**
+- Redes neurais profundas para geração de moléculas (Generative Models)
+- Deep Learning aplicado a predição de propriedades ADMET
+- Processamento de linguagem natural para mineração de literatura científica (BioNLP)
+
+**⚡ Hardware & Open Source:**
+- Arquitetura de servidores para computação científica (clusters caseiros/beowulf)
+- IoT Químico: Sensores conectados para monitoramento de reações em tempo real
+- Contribuições para projetos open-source de quimioinformática
 
 ---
 
-## 📫 **Let's Connect!**
+## 📫 Conecte-se Comigo
 
-I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me:
-
+Estou aberto a colaborações em **química computacional**, **bioinformática**, **desenvolvimento de software científico** e **projetos open-source de hardware**.
+  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas@dubox.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MetalKnightCat)
 
 ---
+  
+&gt; *"A arte da programação é organizar a complexidade. Na interseção entre algoritmos, hardware aberto e moléculas, construímos não apenas software, mas infraestrutura para o progresso científico."*
 
-## 💬 **Quote of the Day**
+**🐧 Apoio o Software Livre e o Conhecimento Aberto**
 
-> "The only way to do great work is to love what you do." – Steve Jobs
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=MetalKnightCat&color=blue&style=flat)
